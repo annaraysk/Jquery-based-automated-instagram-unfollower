@@ -9,13 +9,13 @@ I dont know how to simulate scroll on a div element, if anyone can do that let m
 So, prerequisite will be that you scroll over list and get ready the list.
 
 ## Usage
-Open instagram and Login, head over to your profile.
-then use inspect element option to open developer panel.
-Open console.
-Click on followers, load entire list. 
-Click on following, load entire list by scrolling yourself.
-Copy and Paste unfollower_script.js code in console.
-Type `unfollow()` in console and press Enter.
-Console will show some information, Run and find out.
-In prompt type y or n, as you like.
-No mercy, every account that doesnt follow above rule will be unfollowed. Even Meme accounts.
+- Open instagram and Login, head over to your profile.
+- then use inspect element option to open developer panel.
+- Open console.
+- Click on followers, load entire list. 
+- Click on following, load entire list by scrolling yourself.
+- Copy and Paste unfollower_script.js code in console.
+- Type `unfollow()` in console and press Enter.
+- Console will show some information, Run and find out.
+- In prompt type y or n, as you like.
+- No mercy, every account that doesnt follow above rule will be unfollowed. Even Meme accounts.
