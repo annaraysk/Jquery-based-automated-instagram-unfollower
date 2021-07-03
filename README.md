@@ -8,6 +8,8 @@ Using these jquery functions, writing this script was EZ.
 I dont know how to simulate scroll on a div element, if anyone can do that let me know.
 So, prerequisite will be that you scroll over list and get ready the list.
 
+This script is for someone who repeats now and then `tere me kis baat ka attitude hai bhai`, but also lazy to do five minute job, but interested to invest 3 to 4 hours automating same shit.
+
 ## Usage
 - Open instagram and Login, head over to your profile.
 - then use inspect element option to open developer panel.
@@ -19,3 +21,8 @@ So, prerequisite will be that you scroll over list and get ready the list.
 - Console will show some information, Run and find out.
 - In prompt type y or n, as you like.
 - No mercy, every account that doesnt follow above rule will be unfollowed. Even Meme accounts.
+
+## Results
+- You no longer follow chapri accounts.
+- You save some time.
+- You post console logs into insta story and feel like hacker.
