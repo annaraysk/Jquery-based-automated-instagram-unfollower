@@ -92,7 +92,7 @@ async function unfollow(){
 
 		// put it on screen that you unfollowed.
 		console.log('Unfollowed '+diff[i]);
-		await sleep(1000);
+		await sleep(60000+1000*i);
 	}
 
 }
