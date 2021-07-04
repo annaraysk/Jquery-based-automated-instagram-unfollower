@@ -94,5 +94,6 @@ async function unfollow(){
 		console.log('Unfollowed '+diff[i]);
 		await sleep(60000+1000*i);
 	}
+    console.log('Script Ended');
 
 }
